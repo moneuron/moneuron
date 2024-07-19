@@ -1,3 +1,3 @@
 # Mo Shakiba [(moneuron)](https://moneuron.github.io)
 
-Contact me at <mo@int-n.info>.
+mail: <mo@int-n.info>
