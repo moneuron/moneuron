@@ -1,6 +1,7 @@
+---
+
 I bridge biological systems and artificial intelligence through interdisciplinary research.
 
----
 **[[CV]](https://moneuron.github.io/)**
 **[[KAGGLE]](https://www.kaggle.com/moneuron)**
 **[[LINKEDIN]](https://www.linkedin.com/in/moneuron)**
