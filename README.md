@@ -1,5 +1,7 @@
 ---
 
-**[[X]](https://x.com/moneuron)**
-**[[LINKEDIN]](https://linkedin.com/in/moneuron)**
-**[[SCHOLAR]](https://scholar.google.com/citations?user=r1sNGGsAAAAJ&hl=en)**
+#### BS in Cell & Molecular Biology
+###### *(Last Update: Jan 24, 2025)*
+
+**CV [[PDF]](https://moneuron.github.io/drive/cv.pdf)**
+
