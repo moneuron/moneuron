@@ -1,3 +1,3 @@
 ---
-![moneuron](header.jpg)
+![moneuron](header.jpeg)
 
