@@ -1,4 +1,3 @@
 ---
-### Mo Shakiba
-#### BS in Cell & Molecular Biology
+![moneuron](header.jpg)
 
