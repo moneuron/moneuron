@@ -1,3 +1,2 @@
 ---
-![moneuron](header.png)
 
