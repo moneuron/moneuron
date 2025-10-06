@@ -1,1 +1,1 @@
-I’m **Mo**, a researcher focusing on computational neuroscience.
+I’m **Mo**, a researcher focusing on neuroscience and computational physics.
